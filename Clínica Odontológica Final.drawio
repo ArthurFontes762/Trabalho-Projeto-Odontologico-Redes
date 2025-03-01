@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Página-1" id="THV_jR3SFHk6CQtBX6WG">
-    <mxGraphModel dx="3400" dy="2350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2300" dy="1775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -690,6 +690,54 @@
         </mxCell>
         <mxCell id="8fC4qgJKZOrIRbZxm_EQ-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.workstation;shadow=0;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="-1024.86" y="-770.74" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WEN2ttaG70x-060hDQCC-1" value="Acess Point" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.floor_lamp;" vertex="1" parent="1">
+          <mxGeometry x="-195" y="-350.63" width="29.93" height="28.63" as="geometry" />
+        </mxCell>
+        <mxCell id="WEN2ttaG70x-060hDQCC-3" value="Acess Point" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.floor_lamp;" vertex="1" parent="1">
+          <mxGeometry x="-384.93" y="-726.56" width="29.93" height="28.63" as="geometry" />
+        </mxCell>
+        <mxCell id="WEN2ttaG70x-060hDQCC-4" value="Acess Point" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.floor_lamp;" vertex="1" parent="1">
+          <mxGeometry x="-115.00000000000001" y="44.69" width="29.93" height="28.63" as="geometry" />
+        </mxCell>
+        <mxCell id="WEN2ttaG70x-060hDQCC-5" value="Atendimento&lt;br&gt;Clínico" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-652.18" y="-327.49" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WEN2ttaG70x-060hDQCC-6" value="Atendimento&lt;br&gt;Clínico" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-653.88" y="-155" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WEN2ttaG70x-060hDQCC-7" value="Atendimento&lt;br&gt;Clínico" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1005.87" y="-160" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WEN2ttaG70x-060hDQCC-8" value="Atendimento&lt;br&gt;Clínico" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1004.61" y="-321" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WEN2ttaG70x-060hDQCC-9" value="Atendimento&lt;br&gt;Clínico" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-817.5" y="110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WEN2ttaG70x-060hDQCC-10" value="Atendimento&lt;br&gt;Clínico" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-622.75" y="110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WEN2ttaG70x-060hDQCC-11" value="Recepção" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-136" y="-241" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WEN2ttaG70x-060hDQCC-12" value="Sala de Descanso" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-419.38" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WEN2ttaG70x-060hDQCC-13" value="Copa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-46.25" y="-620" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WEN2ttaG70x-060hDQCC-14" value="Sala de Reunião" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-424.34000000000003" y="-759.24" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WEN2ttaG70x-060hDQCC-15" value="Raio X" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-982.9300000000001" y="-709.24" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WEN2ttaG70x-060hDQCC-17" value="Sala de Espera" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-151" y="-90.68" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WEN2ttaG70x-060hDQCC-18" value="Administração" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-396" y="-490" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
