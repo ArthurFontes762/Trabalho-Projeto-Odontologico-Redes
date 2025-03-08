@@ -11,7 +11,7 @@
 ### Rack Management
 - Haverá 2 imagens chamadas `Rack Management (Com Legenda).png` e `Rack Management (Sem Legenda).png`;
 - Elas irão mostrar a distribuição dos cabos, respectivamente para os locais;
-- Recomendo que veja a imagem `Rack Management (Sem Legenda).png`.
+- Recomendo que veja a imagem `Rack Management (Com Legenda).png`.
 
 ### Orçamento
 - Haverá uma imagem chamada `Orçamento.png` mostrando a quantidade necessária e o total dos produtos;
