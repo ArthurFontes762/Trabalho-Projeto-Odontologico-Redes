@@ -1,6 +1,7 @@
 # Trabalho de Orçamento de uma Clínica Odontológica
 
 1 - [Acess Point](https://www.tntdistribuidor.com.br/access-point-unifi-u6-ubiquiti?utm_source=Site&utm_medium=GoogleMerchant&utm_campaign=GoogleMerchant&utm_source=&utm_medium=&utm_campaign=PMAX-TESTE-02-02&utm_content=&utm_term=&gad_source=1&gclid=EAIaIQobChMI1fqjy7P2iwM)
+
 2 - [NoBreak](https://alltechpecas.com.br/produto/nobreak-ups-dupla-conversao-online-senoidal-c-baterias-220v-3kva/?gad_source=1&gclid=EAIaIQobChMIkraTnLn2iwMV-EVIAB3slTm8EAQYAyABEgJX4PD_BwE)
 3 - [Switch 24 portas](https://www.kabum.com.br/produto/446989/switch-gerenciavel-intelbras-24-portas-gigabit-skd-sg2404d-poe-max-4760021?utm_id=21434223541&gad_source=1&gclid=EAIaIQobChMIgcuM3s32iwMVolRIAB3IcTbaEAQYAyABEgKTKfD_BwE)
 4 - [Rack para Servidor 24u](https://rackdeservidorbrasil.mercadoshops.com.br/MLB-5107876908-rack-de-servidor-24u-x-770mm-padro-19-_JM?variation=185344330691)
