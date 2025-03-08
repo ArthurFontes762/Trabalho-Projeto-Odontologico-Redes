@@ -1,9 +1,21 @@
 # Trabalho de Orçamento de uma Clínica Odontológica
 
 ### Mapeamento
-´Clínica Odontológica Final.drawio´
+- Baixe o arquivo `Clínica Odontológica Final.drawio`;
+- Abre no navegador o site para ver a [Planta](draw.io);
+- Selecione `Ficheiro`;
+- Selecione `Abrir de` e logo em seguida selecione `Aparelho`;
+- Procure onde o arquivo `Clínica Odontológica Final.drawio` foi baixado na sua máquina;
+- Abra e veja a planta do local completo.
+
+### Rack Management
+- Haverá 2 imagens chamadas `Rack Management (Com Legenda).png` e `Rack Management (Sem Legenda).png`;
+- Elas irão mostrar a distribuição dos cabos, respectivamente para os locais;
+- Recomendo que veja a imagem `Rack Management (Sem Legenda).png`.
 
 ### Orçamento
+- Haverá uma imagem chamada `Orçamento.png` mostrando a quantidade necessária e o total dos produtos;
+- Link de cada produto abaixo.
 
 1 - [Acess Point](https://www.tntdistribuidor.com.br/access-point-unifi-u6-ubiquiti?utm_source=Site&utm_medium=GoogleMerchant&utm_campaign=GoogleMerchant&utm_source=&utm_medium=&utm_campaign=PMAX-TESTE-02-02&utm_content=&utm_term=&gad_source=1&gclid=EAIaIQobChMI1fqjy7P2iwM)
 
