@@ -1,5 +1,8 @@
 # Trabalho de Orçamento de uma Clínica Odontológica
 
+### Mapeamento
+´Clínica Odontológica Final.drawio´
+
 ### Orçamento
 
 1 - [Acess Point](https://www.tntdistribuidor.com.br/access-point-unifi-u6-ubiquiti?utm_source=Site&utm_medium=GoogleMerchant&utm_campaign=GoogleMerchant&utm_source=&utm_medium=&utm_campaign=PMAX-TESTE-02-02&utm_content=&utm_term=&gad_source=1&gclid=EAIaIQobChMI1fqjy7P2iwM)
@@ -23,3 +26,5 @@
 10 - [Modem](https://www.mercadolivre.com.br/modem-roteador-tp-link-c-voip-configurado/p/MLB43320055?matt_tool=18956390&utm_source=google_shopping&utm_medium=organic&pdp_filters=item_id%3AMLB5203998810&from=gshop)
 
 11 - [Patch Panel](https://www.kabum.com.br/produto/474006/patch-panel-furukawa-t568a-b-soho-plus-cat-5e-24-portas-35050438?utm_id=22124233857&gad_source=4&gclid=EAIaIQobChMIjqaD8Nr2iwMV2iJECB2UNAirEAQYASABEgJUgfD_BwE)
+
+### Total: R$18.453,75 Reais
