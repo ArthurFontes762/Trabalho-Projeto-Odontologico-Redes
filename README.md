@@ -2,7 +2,7 @@
 
 ### Mapeamento
 - Baixe o arquivo `Clínica Odontológica Final.drawio`;
-- Abre no navegador o site para ver a [Planta](https://app.diagrams.net);
+- Abre no navegador o [site](https://app.diagrams.net) para ver a planta;
 - Selecione `Ficheiro`;
 - Selecione `Abrir de` e logo em seguida selecione `Aparelho`;
 - Procure onde o arquivo `Clínica Odontológica Final.drawio` foi baixado na sua máquina;
